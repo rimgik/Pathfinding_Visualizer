@@ -14,3 +14,10 @@ A simple pathfinding visualizer made using C++ and SDL2
 5) Scrool wheel to zoom. <br />
 6) Hold left mouse button to adjust starting point and ending point. <br />
 7) Hold left mouse button to add / remove wall.  
+
+# Image
+![](https://github.com/rimgik/pathfinding-visualizer/blob/main/output2.gif)
+# pre-built binaries (macOS)
+https://github.com/rimgik/pathfinding-visualizer/releases/tag/1
+
+you need to link SDL2 and SDL2_image to build (check build.sh)
