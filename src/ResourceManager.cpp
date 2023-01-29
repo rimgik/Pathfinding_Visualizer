@@ -5,7 +5,7 @@ ResourceManager::ResourceManager(){
 }
 
 ResourceManager::~ResourceManager(){
-	
+	FreeTexture();
 }
 
 ResourceManager& ResourceManager::GetInstance(){
