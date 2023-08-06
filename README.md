@@ -1,4 +1,4 @@
-# pathfinding-visualizer
+# Pathfinding Visualizer
 A simple pathfinding visualizer made using C++ and SDL2
 # Feature
 1) Support Camera Zooming and Panning
