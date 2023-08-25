@@ -6,7 +6,7 @@ Camera::Camera(int x, int y, int w, int h, int wx, int wy, int ww, int wh){
 	// as ww, wh 
 	// otherwise the texture might look strected
 
-//camera size ans position
+        //camera size ans position
 	_pos = vec2d<float>(x, y);
 	_cameraSize = vec2d<float>(w, h);
 	_scaledCameraSize = vec2d<float>(w, h);
